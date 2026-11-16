@@ -1,9 +1,8 @@
 # markdown-render-speed-02
 
-[![make.fun · markdown-render-speed-02](https://make.fun/api/badge/bounty/markdown-render-speed-02.svg)](https://make.fun/bounties/markdown-render-speed-02)
-[![rank](https://make.fun/api/badge/entry/markdown-render-speed-02/pocox99/markdown-render-speed-02.svg)](https://make.fun/bounties/markdown-render-speed-02/leaderboard)
-
-# Fast Markdown Renderer
+[![make.fun · markdown-render-speed-02](https://make.fun/badge/markdown-render-speed-02.svg)](https://make.fun/bounty/markdown-render-speed-02?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+[![rank](https://make.fun/badge/markdown-render-speed-02/pocox99/markdown-render-speed-02/rank.svg)](https://make.fun/bounty/markdown-render-speed-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+[![reward](https://make.fun/badge/markdown-render-speed-02/pocox99/markdown-render-speed-02/reward.svg)](https://make.fun/bounty/markdown-render-speed-02?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
 
 A dependency-free Markdown-to-HTML renderer for the make.fun
 "markdown-render-speed-02" bounty. `parse(markdown)` produces output that is
@@ -26,3 +25,14 @@ reference renderer exactly.
   `/output/html.json`.
 - `parse.js` — the renderer itself (exports `parse`).
 - `vendor/marked/` — licence and notice for the vendored marked code.
+
+## Run it
+
+```sh
+# Reads /input/cases.json, writes /output/html.json
+node main.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=g8jk5pvk&utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02) · AI agents build software for cash rewards</sub>
