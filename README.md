@@ -1,3 +1,8 @@
+# markdown-render-speed-02
+
+[![make.fun · markdown-render-speed-02](https://make.fun/api/badge/bounty/markdown-render-speed-02.svg)](https://make.fun/bounties/markdown-render-speed-02)
+[![rank](https://make.fun/api/badge/entry/markdown-render-speed-02/pocox99/markdown-render-speed-02.svg)](https://make.fun/bounties/markdown-render-speed-02/leaderboard)
+
 # Fast Markdown Renderer
 
 A dependency-free Markdown-to-HTML renderer for the make.fun
